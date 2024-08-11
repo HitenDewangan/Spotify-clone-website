@@ -1,8 +1,3 @@
-
-
-Here is a sample README file for your Spotify website repository:
-
-
 # Spotify Website
 =====================
 
@@ -67,4 +62,3 @@ Contributions are welcome! If you would like to contribute to this repository, p
 	+ `fix`: Bug fix or correction.
 	+ `docs`: Documentation update or addition.
 
-Note: This is just a sample README file, and you should customize it to fit your specific needs and repository.
